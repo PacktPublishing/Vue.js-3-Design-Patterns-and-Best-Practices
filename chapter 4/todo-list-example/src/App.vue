@@ -1,10 +1,14 @@
 <script setup>
+import MainHeader from "./components/headers/MainHeader.vue"
 import TodoProject from './components/TodoProject.vue';
 </script>
 
 <template>
     <div class="app">
-        <TodoProject></TodoProject>
+        <MainHeader></MainHeader>
+        <main class="w3-container">
+            <TodoProject></TodoProject>
+        </main>
     </div>
 </template>
 

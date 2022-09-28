@@ -22,17 +22,17 @@ function closeModal(accept = false) {
 <template>
     <div class="viewport-wrapper " v-if="_show">
         <div class="dialog-wrapper w3-animate-top">
-            <header class="w3-indigo w3-padding">
+            <header class="w3-blue w3-padding">
                 {{$props.title}}
             </header>
             <main class="w3-white w3-padding">
                 <slot></slot>
             </main>
-            <footer class="w3-right-align w3-indigo">
-                <button class="w3-button" @click="closeModal(true)">
+            <footer class="w3-right-align w3-blue w3-padding">
+                <button class="w3-button " @click="closeModal(true)">
                     Accept
                 </button>
-                <button class="w3-button" @click="closeModal(false)">
+                <button class="w3-button " @click="closeModal(false)">
                     Cancel
                 </button>
             </footer>
@@ -56,7 +56,7 @@ function closeModal(accept = false) {
 }
 
 .dialog-wrapper {
-    border: 1px solid black;
+    border: 1px solid rgba(0,0,0,0.2);
     box-shadow: 0 1rem 1rem var(--shadow);
 }
 

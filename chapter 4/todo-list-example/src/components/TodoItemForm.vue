@@ -5,12 +5,12 @@ const
     $props = defineProps({
         modelValue: { type: Object, default: () => { return {} } }
     }),
-    $emit=defineEmits(['update:modelValue']),
-    _item=ref({})
+    $emit = defineEmits(['update:modelValue']),
+    _item = ref({})
 
-_item.value={...$props.modelValue}
+_item.value = { ...$props.modelValue }
 
-function emitUpdate(){
+function emitUpdate() {
     $emit("update:modelValue", _item.value)
 }
 
@@ -20,26 +20,15 @@ function emitUpdate(){
 <template>
     <div class="w3-cell-row w3-padding">
         <div class="w3-cell w3-padding">
-            <h4>Description</h4>
-            <input  type="text" 
-                    class="w3-input w3-border"  
-                    v-model.string="_item.text"
-                    @blur="emitUpdate()"
-                    >
+            <strong>Description</strong>
+            <input type="text" class="w3-input w3-border" v-model.string="_item.text" @blur="emitUpdate()">
         </div>
 
         <div class="w3-cell w3-padding">
-            <h4>Status</h4>
-            <select 
-                class="w3-select w3-border" 
-                v-model.string="_item.status"
-                @change="emitUpdate()"
-                >
-                <option v-for="state in todoService.getStatusList()" 
-                        :key="state.id"
-                        :value="state.id"
-                        >
-                        {{state.label}}
+            <strong>Status</strong>
+            <select class="w3-select w3-border" v-model.string="_item.status" @change="emitUpdate()">
+                <option v-for="state in todoService.getStatusList()" :key="state.id" :value="state.id">
+                    {{state.label}}
                 </option>
             </select>
         </div>

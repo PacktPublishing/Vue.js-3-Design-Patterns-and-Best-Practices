@@ -1,0 +1,24 @@
+body{
+    font-family:'Ubuntu','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+.flex-container{
+    display: flex;
+}
+
+.flex-grow{
+    flex-grow: 1;
+}
+
+.flex-gap{
+    gap: 1rem;
+}
+
+.clickable{
+    cursor: pointer;
+}
+
+button{
+    cursor: pointer;
+}
