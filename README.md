@@ -8,7 +8,7 @@ Each folder contains either sample files, or full projects.
 
 ### To install a project
 
-Withing the project folder, install the dependencies with: 
+Within the project folder, install the dependencies with: 
 
 `npm install`
 
