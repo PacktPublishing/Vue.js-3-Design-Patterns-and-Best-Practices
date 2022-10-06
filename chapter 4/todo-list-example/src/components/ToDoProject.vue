@@ -1,9 +1,9 @@
 <script setup>
 import { ref, inject } from "vue"
-import TodoItemForm from "./TodoItemForm.vue";
-import TodoList from "./TodoList.vue";
-import TodoFilter from "./TodoFilter.vue";
-import TodoSummary from "./TodoSummary.vue"
+import TodoItemForm from "./ToDoItemForm.vue";
+import TodoList from "./ToDoList.vue";
+import TodoFilter from "./ToDoFilter.vue";
+import TodoSummary from "./ToDoSummary.vue"
 import todoService from "../services/todo";
 
 const
@@ -12,6 +12,8 @@ const
     _item = ref(todoService.getDefault()),
     _items = ref([])
 
+
+// Shows a modal to create or edit a to-do item
 function showModal(new_item = true, item = {}) {
 
     if (new_item) {
@@ -21,6 +23,8 @@ function showModal(new_item = true, item = {}) {
         // Make a copy of the item for editing
         _item.value = todoService.makeCopy(item);
     }
+
+    // Open the modal
     $modals.show("newEditItem").then(() => {
         if (new_item) {
             // Add to the list

@@ -1,31 +1,15 @@
-# Single Modal Plugin
+# To-Do List Application - Chapter 4
 
 ## Created by Pablo D. Garaguso (2022)
 
-This example plugin shows the use of reactive, api declaration for dependency
-injection with provide/inject, the use of promises, and the registration of 
-global components into the Vue 3 application.
+This application builds on the concepts seen from chapters 1 to 4. 
 
-### Usage in main.js (Vue 3 application instanciation):
+To install dependencies run:
 
-```
-    import Modals from "/modals/index.js"
-    ...
-    App.use("$modals",Modals)
-```
+`npm install`
 
-### In a component:
+To run the application in developer mode, run:
 
-```
-[script setup]
+`npm run serve`
 
-    import {inject} from "vue"
-    const $modals=inject("$modals")
-    $modals.show("modalName").then(...)
-
-[template]
-
-    <Modal name="modalName" title="Modal Title">
-        ...
-    </Modal>
-```
+Follow the instructions on the terminal to open the website in your browser.

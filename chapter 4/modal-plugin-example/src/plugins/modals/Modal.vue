@@ -11,11 +11,7 @@ const
     })
 
 function closeModal(accept = false) {
-    if (accept) {
-        $modals.accept()
-    } else {
-        $modals.cancel()
-    }
+    accept?$modals.accept():$modals.cancel()
 }
 </script>
 
