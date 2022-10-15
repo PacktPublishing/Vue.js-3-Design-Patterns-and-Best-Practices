@@ -1,16 +1,28 @@
 <script setup>
-import { ref, inject } from "vue"
+import { ref, inject, onMounted, watch } from "vue"
+import { useRouter } from "vue-router"
 import TodoItemForm from "../components/ToDos/ToDoItemForm.vue";
 import TodoList from "../components/ToDos/ToDoList.vue";
 import TodoFilter from "../components/ToDos/ToDoFilter.vue";
 import TodoSummary from "../components/ToDos/ToDoSummary.vue"
 import todoService from "../services/todo";
+import eventBus from "../services/eventBus"
+
 
 const
+    $props=defineProps(["id"]),
     $modals = inject("$modals"),
+    $router=useRouter(),
     _filter = ref(""),
     _item = ref(todoService.getDefault()),
-    _items = ref([])
+    _items = ref([]),
+    _project_name=ref("")
+
+// First time mounted
+onMounted(loadProject)
+
+// Watch for future changes
+watch(()=>$props.id, loadProject)
 
 
 // Shows a modal to create or edit a to-do item
@@ -38,6 +50,7 @@ function showModal(new_item = true, item = {}) {
                 alert("Error updating the item")
             }
         }
+        saveProject()
     }, () => {
         // Handle cancellation, in this case, just ignore.
     })
@@ -48,6 +61,7 @@ function deleteItem(item) {
         let index = getIndex(item);
         if (index >= 0) {
             _items.value.splice(index, 1)
+            saveProject()
         }
     }, () => { })
 }
@@ -65,12 +79,29 @@ function getIndex(item) {
 
 function toggleStatus(item){
     item.status=todoService.toggleStatus(item.status)
+    saveProject()
 }
 
 function deleteProject(){
     $modals.show("deleteProject").then(()=>{
         // delete project
+        todoService.deleteProject($props.id)
+        eventBus.emit("#ProjectDeleted")
+        $router.push({name:"landing"})
     },()=>{})
+}
+
+// Chapter 5
+function loadProject(){
+    // Project name
+    _project_name.value=todoService.getProjectName($props.id)
+
+    // Items
+    _items.value=todoService.loadProject($props.id)
+}
+
+function saveProject(){
+    todoService.saveProject($props.id, _items.value)
 }
 </script>
 
@@ -79,7 +110,7 @@ function deleteProject(){
 
         <!-- Project name -->
         <div class="header-container">
-            <h1>Project name</h1>
+            <h1>{{_project_name}}</h1>
             <button @click="deleteProject()">Delete project</button>
         </div>
 

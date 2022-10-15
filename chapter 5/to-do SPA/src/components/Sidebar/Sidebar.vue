@@ -11,12 +11,14 @@ const
 onMounted(()=>{
     // Register events
     eventBus.on("#NewProject", openNewProject)
+    eventBus.on("#ProjectDeleted", updateProjects)
     updateProjects()
 })
 
 onBeforeUnmount(()=>{
     // De-register events (Clean after yourself!)
     eventBus.off("#NewProject", openNewProject)
+    eventBus.off("#ProjectDeleted", updateProjects)
 })
 
 function openNewProject(){
@@ -39,10 +41,10 @@ function updateProjects(){
 </script>
 
 <template>
-    <section class="w3-blue w3-padding w3-container">
-        <h4>To-Do Projects</h4>
+    <section class="w3-blue ">
+        <h4 class="w3-row-padding">To-Do Projects</h4>
 
-        <RouterLink :to="{name:'landing'}" active-class="w3-purple">
+        <RouterLink :to="{name:'landing'}" class="w3-padding" active-class="w3-yellow">
             Home
         </RouterLink>
 
@@ -50,7 +52,8 @@ function updateProjects(){
         <div v-for="p in _projects" :key="p.id">
             <RouterLink 
                 :to="{name:'project', params:{id:p.id}}"             
-                active-class="w3-purple"
+                active-class="w3-yellow"
+                 class="w3-padding"
                 >
                 {{p.name}}
             </RouterLink>        
