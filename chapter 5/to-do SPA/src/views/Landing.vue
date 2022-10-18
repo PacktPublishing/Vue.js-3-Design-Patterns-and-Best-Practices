@@ -1,8 +1,22 @@
 <script setup>
+import { inject, ref } from "vue"
 import eventBus from "../services/eventBus"
+import todoService from "../services/todo";
 
-function newProject(){
-    eventBus.emit("#NewProject")
+const
+    $modals = inject("$modals"),
+    _project_name = ref("")
+
+function newProject() {
+    _project_name.value = ""
+    $modals
+        .show("#NewProject")
+        .then(() => {
+            if (_project_name.value != "") {
+                todoService.createTodoProject(_project_name.value)
+                eventBus.emit("#UpdateProjects")
+            }
+        }, () => { })
 }
 </script>
 
@@ -13,19 +27,25 @@ function newProject(){
             Landing page
         </h1>
         <p>
-            You can create a new project from the sidebar or select one already created.
+            You can create a new project or select one from the sidebar.
         </p>
         <p>
-            This route was defined as static in our router. 
+            This route was defined as static in our router.
         </p>
         <button @click="newProject()">
             New project
         </button>
+
+        <!-- Modals -->
+        <Modal name="#NewProject" title="New To-Do Project">
+            <strong>Name</strong>
+            <input type="text" class="w3-input w3-border" placeholder="Enter project name..." v-model="_project_name">
+        </Modal>
     </div>
 </template>
 
 <style scoped>
-.landing-wrapper{
+.landing-wrapper {
     padding: 10rem;
     margin: 0 auto;
     min-width: 40rem;

@@ -3,35 +3,20 @@ import {ref, inject, onMounted, onBeforeUnmount} from "vue"
 import eventBus from "../../services/eventBus"
 import todoService from "../../services/todo"
 
-const
-    $modals=inject("$modals"),
-    _project_name=ref(""),
+const    
     _projects=ref([])
+
+updateProjects()
 
 onMounted(()=>{
     // Register events
-    eventBus.on("#NewProject", openNewProject)
-    eventBus.on("#ProjectDeleted", updateProjects)
-    updateProjects()
+    eventBus.on("#UpdateProjects", updateProjects)
 })
 
 onBeforeUnmount(()=>{
     // De-register events (Clean after yourself!)
-    eventBus.off("#NewProject", openNewProject)
-    eventBus.off("#ProjectDeleted", updateProjects)
+    eventBus.off("#UpdateProjects", updateProjects)
 })
-
-function openNewProject(){
-    _project_name.value=""
-    $modals
-        .show("#NewProject")
-        .then(()=>{
-            if(_project_name.value!=""){
-                todoService.createTodoProject(_project_name.value)
-                updateProjects()
-            }
-        }, ()=>{})
-}
 
 function updateProjects(){
     let projects=todoService.loadProjectsManifest();
@@ -57,17 +42,8 @@ function updateProjects(){
                 >
                 {{p.name}}
             </RouterLink>        
-        </div>
+        </div>        
         
-        <!-- Modals -->
-        <Modal name="#NewProject" title="New To-Do Project">
-            <strong>Name</strong>
-            <input 
-                type="text" 
-                class="w3-input w3-border" 
-                placeholder="Enter project name..."
-                v-model="_project_name">
-        </Modal>
     </section>
 </template>
 

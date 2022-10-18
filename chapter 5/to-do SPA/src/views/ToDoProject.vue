@@ -66,6 +66,7 @@ function deleteItem(item) {
     }, () => { })
 }
 
+// Auxiliar function 
 function getIndex(item) {
     let index = _items.value.findIndex(it => {
         return it.id == item.id
@@ -82,11 +83,12 @@ function toggleStatus(item){
     saveProject()
 }
 
+// Deletes the entire project and triggers a system-wide update event
 function deleteProject(){
     $modals.show("deleteProject").then(()=>{
         // delete project
         todoService.deleteProject($props.id)
-        eventBus.emit("#ProjectDeleted")
+        eventBus.emit("#UpdateProjects")
         $router.push({name:"landing"})
     },()=>{})
 }
