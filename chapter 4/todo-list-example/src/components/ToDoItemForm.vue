@@ -5,7 +5,7 @@ const
     $props = defineProps({
         modelValue: { type: Object, default: () => { return {} } }
     }),
-    $emit = defineEmits(['update:modelValue']),
+    $emit = defineEmits(["update:modelValue"]),
     _item = ref({})
 
 _item.value = { ...$props.modelValue }

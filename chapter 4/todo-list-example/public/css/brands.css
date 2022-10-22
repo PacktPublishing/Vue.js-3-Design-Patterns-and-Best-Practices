@@ -7,7 +7,7 @@
   --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands"; }
 
 @font-face {
-  font-family: 'Font Awesome 6 Brands';
+  font-family: "Font Awesome 6 Brands";
   font-style: normal;
   font-weight: 400;
   font-display: block;
@@ -15,7 +15,7 @@
 
 .fab,
 .fa-brands {
-  font-family: 'Font Awesome 6 Brands';
+  font-family: "Font Awesome 6 Brands";
   font-weight: 400; }
 
 .fa-42-group:before {

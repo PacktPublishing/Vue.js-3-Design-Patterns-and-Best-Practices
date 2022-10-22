@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+    font-size: 1rem;
+}
+html, body{
+    min-height: 100vh;
+}
+
+a{
+    display: inline-block;
+    text-decoration: none;
+    padding-top:4px;
+    padding-bottom:4px;
+}
+
+a:hover, .selected{
+    cursor: pointer;
+    color: red;
+}

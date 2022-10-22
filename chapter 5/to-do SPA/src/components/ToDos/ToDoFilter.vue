@@ -1,8 +1,8 @@
 <script setup>
 import {ref, onMounted} from "vue"
 const
-    $props=defineProps(['modelValue']),
-    $emit=defineEmits(['update:modelValue']),
+    $props=defineProps(["modelValue"]),
+    $emit=defineEmits(["update:modelValue"]),
     _value=ref("")
 
 onMounted(()=>{

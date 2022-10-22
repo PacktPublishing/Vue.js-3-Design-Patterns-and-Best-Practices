@@ -1,0 +1,9522 @@
+[
+    {
+        "state": "Buenos Aires", 
+        "city": "25 de Mayo"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "3 de febrero"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "A. Alsina"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "A. Gonzáles Cháves"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Aguas Verdes"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Alberti"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Arrecifes"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Ayacucho"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Azul"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Bahía Blanca"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Balcarce"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Baradero"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Benito Juárez"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Berisso"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Bolívar"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Bragado"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Brandsen"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Campana"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Cañuelas"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Capilla del Señor"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Capitán Sarmiento"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Carapachay"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Carhue"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Cariló"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Carlos Casares"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Carlos Tejedor"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Carmen de Areco"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Carmen de Patagones"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Castelli"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Chacabuco"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Chascomús"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Chivilcoy"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Colón"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Coronel Dorrego"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Coronel Pringles"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Coronel Rosales"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Coronel Suarez"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Costa Azul"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Costa Chica"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Costa del Este"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Costa Esmeralda"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Daireaux"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Darregueira"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Del Viso"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Dolores"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Don Torcuato"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Ensenada"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Escobar"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Exaltación de la Cruz"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Florentino Ameghino"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Garín"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Gral. Alvarado"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Gral. Alvear"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Gral. Arenales"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Gral. Belgrano"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Gral. Guido"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Gral. Lamadrid"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Gral. Las Heras"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Gral. Lavalle"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Gral. Madariaga"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Gral. Pacheco"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Gral. Paz"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Gral. Pinto"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Gral. Pueyrredón"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Gral. Rodríguez"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Gral. Viamonte"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Gral. Villegas"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Guaminí"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Guernica"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Hipólito Yrigoyen"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Ing. Maschwitz"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Junín"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "La Plata"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Laprida"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Las Flores"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Las Toninas"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Leandro N. Alem"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Lincoln"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Loberia"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Lobos"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Los Cardales"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Los Toldos"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Lucila del Mar"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Luján"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Magdalena"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Maipú"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Mar Chiquita"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Mar de Ajó"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Mar de las Pampas"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Mar del Plata"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Mar del Tuyú"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Marcos Paz"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Mercedes"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Miramar"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Monte"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Monte Hermoso"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Munro"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Navarro"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Necochea"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Olavarría"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Partido de la Costa"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Pehuajó"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Pellegrini"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Pergamino"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Pigüé"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Pila"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Pilar"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Pinamar"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Pinar del Sol"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Polvorines"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Pte. Perón"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Puán"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Punta Indio"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Ramallo"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Rauch"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Rivadavia"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Rojas"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Roque Pérez"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Saavedra"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Saladillo"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Salliqueló"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Salto"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "San Andrés de Giles"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "San Antonio de Areco"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "San Antonio de Padua"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "San Bernardo"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "San Cayetano"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "San Clemente del Tuyú"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "San Nicolás"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "San Pedro"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "San Vicente"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Santa Teresita"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Suipacha"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Tandil"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Tapalqué"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Tordillo"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Tornquist"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Trenque Lauquen"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Tres Lomas"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Villa Gesell"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Villarino"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Zárate"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "11 de Septiembre"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "20 de Junio"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Acassuso"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Adrogué"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Aldo Bonzi"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Área Reserva Cinturón Ecológico"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Avellaneda"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Banfield"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Barrio Parque"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Barrio Santa Teresita"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Beccar"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Bella Vista"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Berazategui"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Bernal Este"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Bernal Oeste"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Billinghurst"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Boulogne"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Burzaco"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Caseros"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Castelar"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Churruca"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Ciudad Evita"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Ciudad Madero"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Ciudadela"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Claypole"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Crucecita"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Dock Sud"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Don Bosco"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Don Orione"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "El Jagüel"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "El Libertador"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "El Palomar"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "El Tala"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "El Trébol"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Ezeiza"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Ezpeleta"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Florencio Varela"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Florida"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Francisco Álvarez"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Gerli"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Glew"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "González Catán"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Gral. Lamadrid"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Grand Bourg"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Gregorio de Laferrere"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Guillermo Enrique Hudson"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Haedo"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Hurlingham"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Ing. Sourdeaux"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Isidro Casanova"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Ituzaingó"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "José C. Paz"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "José Ingenieros"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "José Marmol"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "La Lucila"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "La Reja"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "La Tablada"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Lanús"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Llavallol"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Loma Hermosa"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Lomas de Zamora"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Lomas del Millón"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Lomas del Mirador"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Longchamps"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Los Polvorines"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Luis Guillón"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Malvinas Argentinas"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Martín Coronado"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Martínez"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Merlo"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Ministro Rivadavia"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Monte Chingolo"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Monte Grande"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Moreno"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Morón"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Muñiz"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Olivos"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Pablo Nogués"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Pablo Podestá"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Paso del Rey"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Pereyra"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Piñeiro"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Plátanos"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Pontevedra"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Quilmes"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Rafael Calzada"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Rafael Castillo"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Ramos Mejía"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Ranelagh"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Remedios de Escalada"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Sáenz Peña"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "San Antonio de Padua"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "San Fernando"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "San Francisco Solano"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "San Isidro"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "San José"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "San Justo"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "San Martín"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "San Miguel"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Santos Lugares"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Sarandí"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Sourigues"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Tapiales"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Temperley"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Tigre"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Tortuguitas"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Tristán Suárez"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Trujui"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Turdera"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Valentín Alsina"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Vicente López"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Villa Adelina"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Villa Ballester"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Villa Bosch"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Villa Caraza"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Villa Celina"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Villa Centenario"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Villa de Mayo"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Villa Diamante"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Villa Domínico"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Villa España"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Villa Fiorito"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Villa Guillermina"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Villa Insuperable"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Villa José León Suárez"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Villa La Florida"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Villa Luzuriaga"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Villa Martelli"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Villa Obrera"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Villa Progreso"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Villa Raffo"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Villa Sarmiento"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Villa Tesei"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Villa Udaondo"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Virrey del Pino"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "Wilde"
+    }, 
+    {
+        "state": "Buenos Aires", 
+        "city": "William Morris"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Agronomía"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Almagro"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Balvanera"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Barracas"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Belgrano"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Boca"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Boedo"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Caballito"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Chacarita"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Coghlan"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Colegiales"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Constitución"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Flores"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Floresta"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "La Paternal"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Liniers"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Mataderos"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Monserrat"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Monte Castro"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Nueva Pompeya"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Núñez"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Palermo"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Parque Avellaneda"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Parque Chacabuco"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Parque Chas"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Parque Patricios"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Puerto Madero"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Recoleta"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Retiro"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Saavedra"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "San Cristóbal"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "San Nicolás"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "San Telmo"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Vélez Sársfield"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Versalles"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Villa Crespo"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Villa del Parque"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Villa Devoto"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Villa Gral. Mitre"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Villa Lugano"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Villa Luro"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Villa Ortúzar"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Villa Pueyrredón"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Villa Real"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Villa Riachuelo"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Villa Santa Rita"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Villa Soldati"
+    }, 
+    {
+        "state": "Ciudad Autónoma de Buenos Aires", 
+        "city": "Villa Urquiza"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Aconquija"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Ancasti"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Andalgalá"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Antofagasta"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Belén"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Capayán"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Capital"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "4"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Corral Quemado"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "El Alto"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "El Rodeo"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "F.Mamerto Esquiú"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Fiambalá"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Hualfín"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Huillapima"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Icaño"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "La Puerta"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Las Juntas"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Londres"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Los Altos"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Los Varela"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Mutquín"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Paclín"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Poman"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Pozo de La Piedra"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Puerta de Corral"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Puerta San José"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Recreo"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "S.F.V de 4"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "San Fernando"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "San Fernando del Valle"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "San José"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Santa María"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Santa Rosa"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Saujil"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Tapso"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Tinogasta"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Valle Viejo"
+    }, 
+    {
+        "state": "Catamarca", 
+        "city": "Villa Vil"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Aviá Teraí"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Barranqueras"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Basail"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Campo Largo"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Capital"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Capitán Solari"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Charadai"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Charata"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Chorotis"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Ciervo Petiso"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Cnel. Du Graty"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Col. Benítez"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Col. Elisa"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Col. Popular"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Colonias Unidas"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Concepción"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Corzuela"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Cote Lai"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "El Sauzalito"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Enrique Urien"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Fontana"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Fte. Esperanza"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Gancedo"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Gral. Capdevila"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Gral. Pinero"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Gral. San Martín"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Gral. Vedia"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Hermoso Campo"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "I. del Cerrito"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "J.J. Castelli"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "La Clotilde"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "La Eduvigis"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "La Escondida"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "La Leonesa"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "La Tigra"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "La Verde"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Laguna Blanca"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Laguna Limpia"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Lapachito"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Las Breñas"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Las Garcitas"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Las Palmas"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Los Frentones"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Machagai"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Makallé"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Margarita Belén"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Miraflores"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Misión N. Pompeya"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Napenay"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Pampa Almirón"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Pampa del Indio"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Pampa del Infierno"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Pdcia. de La Plaza"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Pdcia. Roca"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Pdcia. Roque Sáenz Peña"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Pto. Bermejo"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Pto. Eva Perón"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Puero Tirol"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Puerto Vilelas"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Quitilipi"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Resistencia"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Sáenz Peña"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Samuhú"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "San Bernardo"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Santa Sylvina"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Taco Pozo"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Tres Isletas"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Villa Ángela"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Villa Berthet"
+    }, 
+    {
+        "state": "Chaco", 
+        "city": "Villa R. Bermejito"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Aldea Apeleg"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Aldea Beleiro"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Aldea Epulef"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Alto Río Sengerr"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Buen Pasto"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Camarones"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Carrenleufú"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Cholila"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Co. Centinela"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Colan Conhué"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Comodoro Rivadavia"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Corcovado"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Cushamen"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Dique F. Ameghino"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Dolavón"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Dr. R. Rojas"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "El Hoyo"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "El Maitén"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Epuyén"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Esquel"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Facundo"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Gaimán"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Gan Gan"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Gastre"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Gdor. Costa"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Gualjaina"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "J. de San Martín"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Lago Blanco"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Lago Puelo"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Lagunita Salada"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Las Plumas"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Los Altares"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Paso de los Indios"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Paso del Sapo"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Pto. Madryn"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Pto. Pirámides"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Rada Tilly"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Rawson"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Río Mayo"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Río Pico"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Sarmiento"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Tecka"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Telsen"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Trelew"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Trevelin"
+    }, 
+    {
+        "state": "Chubut", 
+        "city": "Veintiocho de Julio"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Achiras"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Adelia Maria"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Agua de Oro"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Alcira Gigena"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Aldea Santa Maria"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Alejandro Roca"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Alejo Ledesma"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Alicia"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Almafuerte"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Alpa Corral"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Alta Gracia"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Alto Alegre"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Alto de Los Quebrachos"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Altos de Chipion"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Amboy"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Ambul"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Ana Zumaran"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Anisacate"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Arguello"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Arias"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Arroyito"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Arroyo Algodon"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Arroyo Cabral"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Arroyo Los Patos"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Assunta"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Atahona"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Ausonia"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Avellaneda"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Ballesteros"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Ballesteros Sud"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Balnearia"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Bañado de Soto"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Bell Ville"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Bengolea"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Benjamin Gould"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Berrotaran"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Bialet Masse"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Bouwer"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Brinkmann"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Buchardo"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Bulnes"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Cabalango"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Calamuchita"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Calchin"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Calchin Oeste"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Calmayo"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Camilo Aldao"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Caminiaga"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Cañada de Luque"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Cañada de Machado"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Cañada de Rio Pinto"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Cañada del Sauce"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Canals"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Candelaria Sud"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Capilla de Remedios"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Capilla de Siton"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Capilla del Carmen"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Capilla del Monte"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Capital"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Capitan Gral B. O´Higgins"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Carnerillo"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Carrilobo"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Casa Grande"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Cavanagh"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Cerro Colorado"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Chaján"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Chalacea"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Chañar Viejo"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Chancaní"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Charbonier"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Charras"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Chazón"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Chilibroste"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Chucul"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Chuña"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Chuña Huasi"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Churqui Cañada"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Cienaga Del Coro"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Cintra"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Col. Almada"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Col. Anita"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Col. Barge"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Col. Bismark"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Col. Bremen"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Col. Caroya"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Col. Italiana"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Col. Iturraspe"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Col. Las Cuatro Esquinas"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Col. Las Pichanas"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Col. Marina"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Col. Prosperidad"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Col. San Bartolome"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Col. San Pedro"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Col. Tirolesa"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Col. Vicente Aguero"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Col. Videla"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Col. Vignaud"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Col. Waltelina"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Colazo"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Comechingones"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Conlara"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Copacabana"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "7"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Coronel Baigorria"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Coronel Moldes"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Corral de Bustos"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Corralito"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Cosquín"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Costa Sacate"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Cruz Alta"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Cruz de Caña"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Cruz del Eje"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Cuesta Blanca"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Dean Funes"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Del Campillo"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Despeñaderos"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Devoto"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Diego de Rojas"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Dique Chico"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "El Arañado"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "El Brete"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "El Chacho"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "El Crispín"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "El Fortín"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "El Manzano"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "El Rastreador"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "El Rodeo"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "El Tío"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Elena"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Embalse"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Esquina"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Estación Gral. Paz"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Estación Juárez Celman"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Estancia de Guadalupe"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Estancia Vieja"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Etruria"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Eufrasio Loza"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Falda del Carmen"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Freyre"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Gral. Baldissera"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Gral. Cabrera"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Gral. Deheza"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Gral. Fotheringham"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Gral. Levalle"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Gral. Roca"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Guanaco Muerto"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Guasapampa"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Guatimozin"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Gutenberg"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Hernando"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Huanchillas"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Huerta Grande"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Huinca Renanco"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Idiazabal"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Impira"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Inriville"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Isla Verde"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Italó"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "James Craik"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Jesús María"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Jovita"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Justiniano Posse"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Km 658"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "L. V. Mansilla"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Batea"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Calera"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Carlota"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Carolina"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Cautiva"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Cesira"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Cruz"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Cumbre"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Cumbrecita"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Falda"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Francia"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Granja"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Higuera"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Laguna"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Paisanita"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Palestina"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "12"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Paquita"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Para"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Paz"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Playa"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Playosa"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Población"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Posta"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Puerta"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Quinta"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Rancherita"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Rinconada"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Serranita"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "La Tordilla"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Laborde"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Laboulaye"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Laguna Larga"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Las Acequias"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Las Albahacas"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Las Arrias"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Las Bajadas"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Las Caleras"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Las Calles"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Las Cañadas"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Las Gramillas"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Las Higueras"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Las Isletillas"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Las Junturas"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Las Palmas"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Las Peñas"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Las Peñas Sud"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Las Perdices"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Las Playas"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Las Rabonas"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Las Saladas"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Las Tapias"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Las Varas"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Las Varillas"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Las Vertientes"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Leguizamón"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Leones"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Los Cedros"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Los Cerrillos"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Los Chañaritos (C.E)"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Los Chanaritos (R.S)"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Los Cisnes"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Los Cocos"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Los Cóndores"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Los Hornillos"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Los Hoyos"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Los Mistoles"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Los Molinos"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Los Pozos"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Los Reartes"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Los Surgentes"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Los Talares"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Los Zorros"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Lozada"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Luca"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Luque"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Luyaba"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Malagueño"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Malena"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Malvinas Argentinas"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Manfredi"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Maquinista Gallini"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Marcos Juárez"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Marull"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Matorrales"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Mattaldi"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Mayu Sumaj"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Media Naranja"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Melo"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Mendiolaza"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Mi Granja"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Mina Clavero"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Miramar"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Morrison"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Morteros"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Mte. Buey"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Mte. Cristo"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Mte. De Los Gauchos"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Mte. Leña"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Mte. Maíz"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Mte. Ralo"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Nicolás Bruzone"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Noetinger"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Nono"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Nueva 7"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Obispo Trejo"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Olaeta"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Oliva"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Olivares San Nicolás"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Onagolty"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Oncativo"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Ordoñez"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Pacheco De Melo"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Pampayasta N."
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Pampayasta S."
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Panaholma"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Pascanas"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Pasco"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Paso del Durazno"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Paso Viejo"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Pilar"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Pincén"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Piquillín"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Plaza de Mercedes"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Plaza Luxardo"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Porteña"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Potrero de Garay"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Pozo del Molle"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Pozo Nuevo"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Pueblo Italiano"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Puesto de Castro"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Punta del Agua"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Quebracho Herrado"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Quilino"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Rafael García"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Ranqueles"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Rayo Cortado"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Reducción"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Rincón"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Río Bamba"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Río Ceballos"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Río Cuarto"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Río de Los Sauces"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Río Primero"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Río Segundo"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Río Tercero"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Rosales"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Rosario del Saladillo"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Sacanta"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Sagrada Familia"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Saira"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Saladillo"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Saldán"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Salsacate"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Salsipuedes"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Sampacho"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "San Agustín"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "San Antonio de Arredondo"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "San Antonio de Litín"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "San Basilio"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "San Carlos Minas"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "San Clemente"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "San Esteban"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "San Francisco"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "San Ignacio"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "San Javier"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "San Jerónimo"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "San Joaquín"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "San José de La Dormida"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "San José de Las Salinas"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "San Lorenzo"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "San Marcos Sierras"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "San Marcos Sud"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "San Pedro"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "San Pedro N."
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "San Roque"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "San Vicente"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Santa Catalina"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Santa Elena"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Santa Eufemia"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Santa Maria"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Sarmiento"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Saturnino M.Laspiur"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Sauce Arriba"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Sebastián Elcano"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Seeber"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Segunda Usina"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Serrano"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Serrezuela"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Sgo. Temple"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Silvio Pellico"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Simbolar"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Sinsacate"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Sta. Rosa de Calamuchita"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Sta. Rosa de Río Primero"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Suco"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Tala Cañada"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Tala Huasi"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Talaini"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Tancacha"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Tanti"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Ticino"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Tinoco"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Tío Pujio"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Toledo"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Toro Pujio"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Tosno"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Tosquita"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Tránsito"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Tuclame"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Tutti"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Ucacha"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Unquillo"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Valle de Anisacate"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Valle Hermoso"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Vélez Sarfield"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Viamonte"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Vicuña Mackenna"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Allende"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Amancay"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Ascasubi"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Candelaria N."
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Carlos Paz"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Cerro Azul"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Ciudad de América"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Ciudad Pque Los Reartes"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Concepción del Tío"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Cura Brochero"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa de Las Rosas"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa de María"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa de Pocho"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa de Soto"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa del Dique"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa del Prado"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa del Rosario"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa del Totoral"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Dolores"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa El Chancay"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Elisa"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Flor Serrana"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Fontana"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Giardino"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Gral. Belgrano"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Gutierrez"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Huidobro"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa La Bolsa"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Los Aromos"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Los Patos"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa María"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Nueva"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Pque. Santa Ana"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Pque. Siquiman"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Quillinzo"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Rossi"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Rumipal"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa San Esteban"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa San Isidro"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa 21"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Sarmiento (G.R)"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Sarmiento (S.A)"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Tulumba"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Valeria"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Villa Yacanto"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Washington"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Wenceslao Escalante"
+    }, 
+    {
+        "state": "Córdoba", 
+        "city": "Ycho Cruz Sierras"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Alvear"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Bella Vista"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Berón de Astrada"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Bonpland"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Caá Cati"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Capital"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Chavarría"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Col. C. Pellegrini"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Col. Libertad"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Col. Liebig"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Col. Sta Rosa"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Concepción"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Cruz de Los Milagros"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Curuzú-Cuatiá"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Empedrado"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Esquina"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Estación Torrent"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Felipe Yofré"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Garruchos"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Gdor. Agrónomo"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Gdor. Martínez"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Goya"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Guaviravi"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Herlitzka"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Ita-Ibate"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Itatí"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Ituzaingó"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "José Rafael Gómez"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Juan Pujol"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "La Cruz"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Lavalle"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Lomas de Vallejos"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Loreto"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Mariano I. Loza"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Mburucuyá"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Mercedes"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Mocoretá"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Mte. Caseros"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Nueve de Julio"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Palmar Grande"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Parada Pucheta"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Paso de La Patria"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Paso de Los Libres"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Pedro R. Fernandez"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Perugorría"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Pueblo Libertador"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Ramada Paso"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Riachuelo"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Saladas"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "San Antonio"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "San Carlos"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "San Cosme"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "San Lorenzo"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "20 del Palmar"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "San Miguel"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "San Roque"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Santa Ana"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Santa Lucía"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Santo Tomé"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Sauce"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Tabay"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Tapebicuá"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Tatacua"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Virasoro"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Yapeyú"
+    }, 
+    {
+        "state": "Corrientes", 
+        "city": "Yataití Calle"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Alarcón"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Alcaraz"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Alcaraz N."
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Alcaraz S."
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Aldea Asunción"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Aldea Brasilera"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Aldea Elgenfeld"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Aldea Grapschental"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Aldea Ma. Luisa"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Aldea Protestante"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Aldea Salto"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Aldea San Antonio (G)"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Aldea San Antonio (P)"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Aldea 19"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Aldea San Miguel"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Aldea San Rafael"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Aldea Spatzenkutter"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Aldea Sta. María"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Aldea Sta. Rosa"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Aldea Valle María"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Altamirano Sur"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Antelo"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Antonio Tomás"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Aranguren"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Arroyo Barú"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Arroyo Burgos"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Arroyo Clé"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Arroyo Corralito"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Arroyo del Medio"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Arroyo Maturrango"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Arroyo Palo Seco"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Banderas"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Basavilbaso"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Betbeder"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Bovril"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Caseros"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Ceibas"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Cerrito"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Chajarí"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Chilcas"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Clodomiro Ledesma"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Col. Alemana"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Col. Avellaneda"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Col. Avigdor"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Col. Ayuí"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Col. Baylina"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Col. Carrasco"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Col. Celina"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Col. Cerrito"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Col. Crespo"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Col. Elia"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Col. Ensayo"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Col. Gral. Roca"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Col. La Argentina"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Col. Merou"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Col. Oficial Nª3"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Col. Oficial Nº13"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Col. Oficial Nº14"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Col. Oficial Nº5"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Col. Reffino"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Col. Tunas"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Col. Viraró"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Colón"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Concepción del Uruguay"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Concordia"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Conscripto Bernardi"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Costa Grande"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Costa San Antonio"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Costa Uruguay N."
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Costa Uruguay S."
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Crespo"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Crucecitas 3ª"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Crucecitas 7ª"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Crucecitas 8ª"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Cuchilla Redonda"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Curtiembre"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Diamante"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Distrito 6º"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Distrito Chañar"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Distrito Chiqueros"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Distrito Cuarto"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Distrito Diego López"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Distrito Pajonal"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Distrito Sauce"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Distrito Tala"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Distrito Talitas"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Don Cristóbal 1ª Sección"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Don Cristóbal 2ª Sección"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Durazno"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "El Cimarrón"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "El Gramillal"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "El Palenque"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "El Pingo"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "El Quebracho"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "El Redomón"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "El Solar"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Enrique Carbo"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "9"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Espinillo N."
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Estación Campos"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Estación Escriña"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Estación Lazo"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Estación Raíces"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Estación Yerúa"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Estancia Grande"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Estancia Líbaros"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Estancia Racedo"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Estancia Solá"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Estancia Yuquerí"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Estaquitas"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Faustino M. Parera"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Febre"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Federación"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Federal"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Gdor. Echagüe"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Gdor. Mansilla"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Gilbert"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "González Calderón"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Gral. Almada"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Gral. Alvear"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Gral. Campos"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Gral. Galarza"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Gral. Ramírez"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Gualeguay"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Gualeguaychú"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Gualeguaycito"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Guardamonte"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Hambis"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Hasenkamp"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Hernandarias"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Hernández"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Herrera"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Hinojal"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Hocker"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Ing. Sajaroff"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Irazusta"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Isletas"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "J.J De Urquiza"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Jubileo"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "La Clarita"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "La Criolla"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "La Esmeralda"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "La Florida"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "La Fraternidad"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "La Hierra"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "La Ollita"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "La Paz"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "La Picada"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "La Providencia"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "La Verbena"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Laguna Benítez"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Larroque"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Las Cuevas"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Las Garzas"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Las Guachas"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Las Mercedes"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Las Moscas"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Las Mulitas"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Las Toscas"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Laurencena"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Libertador San Martín"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Loma Limpia"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Los Ceibos"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Los Charruas"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Los Conquistadores"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Lucas González"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Lucas N."
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Lucas S. 1ª"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Lucas S. 2ª"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Maciá"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "María Grande"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "María Grande 2ª"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Médanos"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Mojones N."
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Mojones S."
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Molino Doll"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Monte Redondo"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Montoya"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Mulas Grandes"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Ñancay"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Nogoyá"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Nueva Escocia"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Nueva Vizcaya"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Ombú"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Oro Verde"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Paraná"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Pasaje Guayaquil"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Pasaje Las Tunas"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Paso de La Arena"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Paso de La Laguna"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Paso de Las Piedras"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Paso Duarte"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Pastor Britos"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Pedernal"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Perdices"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Picada Berón"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Piedras Blancas"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Primer Distrito Cuchilla"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Primero de Mayo"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Pronunciamiento"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Pto. Algarrobo"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Pto. Ibicuy"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Pueblo Brugo"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Pueblo Cazes"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Pueblo Gral. Belgrano"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Pueblo Liebig"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Puerto Yeruá"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Punta del Monte"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Quebracho"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Quinto Distrito"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Raices Oeste"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Rincón de Nogoyá"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Rincón del Cinto"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Rincón del Doll"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Rincón del Gato"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Rocamora"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Rosario del Tala"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "San Benito"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "San Cipriano"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "San Ernesto"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "San Gustavo"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "San Jaime"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "San José"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "San José de Feliciano"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "San Justo"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "San Marcial"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "San Pedro"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "San Ramírez"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "San Ramón"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "San Roque"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "San Salvador"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "San Víctor"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Santa Ana"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Santa Anita"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Santa Elena"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Santa Lucía"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Santa Luisa"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Sauce de Luna"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Sauce Montrull"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Sauce Pinto"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Sauce Sur"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Seguí"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Sir Leonard"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Sosa"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Tabossi"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Tezanos Pinto"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Ubajay"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Urdinarrain"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Veinte de Septiembre"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Viale"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Victoria"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Villa Clara"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Villa del Rosario"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Villa Domínguez"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Villa Elisa"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Villa Fontana"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Villa Gdor. Etchevehere"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Villa Mantero"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Villa Paranacito"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Villa Urquiza"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Villaguay"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Walter Moss"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Yacaré"
+    }, 
+    {
+        "state": "Entre Ríos", 
+        "city": "Yeso Oeste"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Buena Vista"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Clorinda"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Col. Pastoril"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Cte. Fontana"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "El Colorado"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "El Espinillo"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Estanislao Del Campo"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "10"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Fortín Lugones"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Gral. Lucio V. Mansilla"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Gral. Manuel Belgrano"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Gral. Mosconi"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Gran Guardia"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Herradura"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Ibarreta"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Ing. Juárez"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Laguna Blanca"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Laguna Naick Neck"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Laguna Yema"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Las Lomitas"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Los Chiriguanos"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Mayor V. Villafañe"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Misión San Fco."
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Palo Santo"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Pirané"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Pozo del Maza"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Riacho He-He"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "San Hilario"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "San Martín II"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Siete Palmas"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Subteniente Perín"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Tres Lagunas"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Villa Dos Trece"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Villa Escolar"
+    }, 
+    {
+        "state": "Formosa", 
+        "city": "Villa Gral. Güemes"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Abdon Castro Tolay"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Abra Pampa"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Abralaite"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Aguas Calientes"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Arrayanal"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Barrios"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Caimancito"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Calilegua"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Cangrejillos"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Caspala"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Catuá"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Cieneguillas"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Coranzulli"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Cusi-Cusi"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "El Aguilar"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "El Carmen"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "El Cóndor"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "El Fuerte"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "El Piquete"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "El Talar"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Fraile Pintado"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Hipólito Yrigoyen"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Huacalera"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Humahuaca"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "La Esperanza"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "La Mendieta"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "La Quiaca"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Ledesma"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Libertador Gral. San Martin"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Maimara"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Mina Pirquitas"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Monterrico"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Palma Sola"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Palpalá"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Pampa Blanca"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Pampichuela"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Perico"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Puesto del Marqués"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Puesto Viejo"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Pumahuasi"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Purmamarca"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Rinconada"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Rodeitos"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Rosario de Río Grande"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "San Antonio"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "San Francisco"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "San Pedro"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "San Rafael"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "San Salvador"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Santa Ana"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Santa Catalina"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Santa Clara"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Susques"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Tilcara"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Tres Cruces"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Tumbaya"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Valle Grande"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Vinalito"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Volcán"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Yala"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Yaví"
+    }, 
+    {
+        "state": "Jujuy", 
+        "city": "Yuto"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Abramo"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Adolfo Van Praet"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Agustoni"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Algarrobo del Aguila"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Alpachiri"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Alta Italia"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Anguil"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Arata"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Ataliva Roca"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Bernardo Larroude"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Bernasconi"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Caleufú"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Carro Quemado"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Catriló"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Ceballos"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Chacharramendi"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Col. Barón"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Col. Santa María"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Conhelo"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Coronel Hilario Lagos"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Cuchillo-Có"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Doblas"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Dorila"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Eduardo Castex"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Embajador Martini"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Falucho"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Gral. Acha"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Gral. Manuel Campos"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Gral. Pico"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Guatraché"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Ing. Luiggi"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Intendente Alvear"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Jacinto Arauz"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "La Adela"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "La Humada"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "La Maruja"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "12"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "La Reforma"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Limay Mahuida"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Lonquimay"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Loventuel"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Luan Toro"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Macachín"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Maisonnave"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Mauricio Mayer"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Metileo"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Miguel Cané"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Miguel Riglos"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Monte Nievas"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Parera"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Perú"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Pichi-Huinca"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Puelches"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Puelén"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Quehue"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Quemú Quemú"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Quetrequén"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Rancul"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Realicó"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Relmo"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Rolón"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Rucanelo"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Sarah"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Speluzzi"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Sta. Isabel"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Sta. Rosa"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Sta. Teresa"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Telén"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Toay"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Tomas M. de Anchorena"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Trenel"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Unanue"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Uriburu"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Veinticinco de Mayo"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Vertiz"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Victorica"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Villa Mirasol"
+    }, 
+    {
+        "state": "La Pampa", 
+        "city": "Winifreda"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Arauco"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Capital"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Castro Barros"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Chamical"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Chilecito"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Coronel F. Varela"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Famatina"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Gral. A.V.Peñaloza"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Gral. Belgrano"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Gral. J.F. Quiroga"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Gral. Lamadrid"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Gral. Ocampo"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Gral. San Martín"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Independencia"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Rosario Penaloza"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "San Blas de Los Sauces"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Sanagasta"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Vinchina"
+    }, 
+    {
+        "state": "Mendoza", 
+        "city": "Capital"
+    }, 
+    {
+        "state": "Mendoza", 
+        "city": "Chacras de Coria"
+    }, 
+    {
+        "state": "Mendoza", 
+        "city": "Dorrego"
+    }, 
+    {
+        "state": "Mendoza", 
+        "city": "Gllen"
+    }, 
+    {
+        "state": "Mendoza", 
+        "city": "Godoy Cruz"
+    }, 
+    {
+        "state": "Mendoza", 
+        "city": "Gral. Alvear"
+    }, 
+    {
+        "state": "Mendoza", 
+        "city": "Guaymallén"
+    }, 
+    {
+        "state": "Mendoza", 
+        "city": "Junín"
+    }, 
+    {
+        "state": "Mendoza", 
+        "city": "La Paz"
+    }, 
+    {
+        "state": "Mendoza", 
+        "city": "Las Heras"
+    }, 
+    {
+        "state": "Mendoza", 
+        "city": "Lavalle"
+    }, 
+    {
+        "state": "Mendoza", 
+        "city": "Luján"
+    }, 
+    {
+        "state": "Mendoza", 
+        "city": "Luján De Cuyo"
+    }, 
+    {
+        "state": "Mendoza", 
+        "city": "Maipú"
+    }, 
+    {
+        "state": "Mendoza", 
+        "city": "Malargüe"
+    }, 
+    {
+        "state": "Mendoza", 
+        "city": "Rivadavia"
+    }, 
+    {
+        "state": "Mendoza", 
+        "city": "San Carlos"
+    }, 
+    {
+        "state": "Mendoza", 
+        "city": "San Martín"
+    }, 
+    {
+        "state": "Mendoza", 
+        "city": "San Rafael"
+    }, 
+    {
+        "state": "Mendoza", 
+        "city": "Sta. Rosa"
+    }, 
+    {
+        "state": "Mendoza", 
+        "city": "Tunuyán"
+    }, 
+    {
+        "state": "Mendoza", 
+        "city": "Tupungato"
+    }, 
+    {
+        "state": "Mendoza", 
+        "city": "Villa Nueva"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Alba Posse"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Almafuerte"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Apóstoles"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Aristóbulo Del Valle"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Arroyo Del Medio"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Azara"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Bdo. De Irigoyen"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Bonpland"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Caá Yari"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Campo Grande"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Campo Ramón"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Campo Viera"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Candelaria"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Capioví"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Caraguatay"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Cdte. Guacurarí"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Cerro Azul"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Cerro Corá"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Col. Alberdi"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Col. Aurora"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Col. Delicia"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Col. Polana"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Col. Victoria"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Col. Wanda"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Concepción De La Sierra"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Corpus"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Dos Arroyos"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Dos de Mayo"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "El Alcázar"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "El Dorado"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "El Soberbio"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Esperanza"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "F. Ameghino"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Fachinal"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Garuhapé"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Garupá"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Gdor. López"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Gdor. Roca"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Gral. Alvear"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Gral. Urquiza"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Guaraní"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "H. Yrigoyen"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Iguazú"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Itacaruaré"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Jardín América"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Leandro N. Alem"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Libertad"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Loreto"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Los Helechos"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Mártires"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "15"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Mojón Grande"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Montecarlo"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Nueve de Julio"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Oberá"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Olegario V. Andrade"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Panambí"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Posadas"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Profundidad"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Pto. Iguazú"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Pto. Leoni"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Pto. Piray"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Pto. Rico"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Ruiz de Montoya"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "San Antonio"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "San Ignacio"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "San Javier"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "San José"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "San Martín"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "San Pedro"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "San Vicente"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Santiago De Liniers"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Santo Pipo"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Sta. Ana"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Sta. María"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Tres Capones"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Veinticinco de Mayo"
+    }, 
+    {
+        "state": "Misiones", 
+        "city": "Wanda"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Aguada San Roque"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Aluminé"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Andacollo"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Añelo"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Bajada del Agrio"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Barrancas"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Buta Ranquil"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Capital"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Caviahué"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Centenario"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Chorriaca"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Chos Malal"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Cipolletti"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Covunco Abajo"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Coyuco Cochico"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Cutral Có"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "El Cholar"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "El Huecú"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "El Sauce"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Guañacos"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Huinganco"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Las Coloradas"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Las Lajas"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Las Ovejas"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Loncopué"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Los Catutos"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Los Chihuidos"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Los Miches"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Manzano Amargo"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "16"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Octavio Pico"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Paso Aguerre"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Picún Leufú"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Piedra del Aguila"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Pilo Lil"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Plaza Huincul"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Plottier"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Quili Malal"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Ramón Castro"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Rincón de Los Sauces"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "San Martín de Los Andes"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "San Patricio del Chañar"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Santo Tomás"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Sauzal Bonito"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Senillosa"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Taquimilán"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Tricao Malal"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Varvarco"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Villa Curí Leuvu"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Villa del Nahueve"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Villa del Puente Picún Leuvú"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Villa El Chocón"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Villa La Angostura"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Villa Pehuenia"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Villa Traful"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Vista Alegre"
+    }, 
+    {
+        "state": "Neuquén", 
+        "city": "Zapala"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Aguada Cecilio"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Aguada de Guerra"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Allén"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Arroyo de La Ventana"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Arroyo Los Berros"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Bariloche"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Calte. Cordero"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Campo Grande"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Catriel"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Cerro Policía"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Cervantes"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Chelforo"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Chimpay"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Chinchinales"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Chipauquil"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Choele Choel"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Cinco Saltos"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Cipolletti"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Clemente Onelli"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Colán Conhue"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Comallo"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Comicó"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Cona Niyeu"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Coronel Belisle"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Cubanea"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Darwin"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Dina Huapi"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "El Bolsón"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "El Caín"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "El Manso"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Gral. Conesa"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Gral. Enrique Godoy"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Gral. Fernandez Oro"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Gral. Roca"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Guardia Mitre"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Ing. Huergo"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Ing. Jacobacci"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Laguna Blanca"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Lamarque"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Las Grutas"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Los Menucos"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Luis Beltrán"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Mainqué"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Mamuel Choique"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Maquinchao"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Mencué"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Mtro. Ramos Mexia"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Nahuel Niyeu"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Naupa Huen"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Ñorquinco"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Ojos de Agua"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Paso de Agua"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Paso Flores"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Peñas Blancas"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Pichi Mahuida"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Pilcaniyeu"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Pomona"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Prahuaniyeu"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Rincón Treneta"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Río Chico"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Río Colorado"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Roca"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "San Antonio Oeste"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "San Javier"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Sierra Colorada"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Sierra Grande"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Sierra Pailemán"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Valcheta"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Valle Azul"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Viedma"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Villa Llanquín"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Villa Mascardi"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Villa Regina"
+    }, 
+    {
+        "state": "Río Negro", 
+        "city": "Yaminué"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "A. Saravia"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Aguaray"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Angastaco"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Animaná"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Cachi"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Cafayate"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Campo Quijano"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Campo Santo"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Capital"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Cerrillos"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Chicoana"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Col. Sta. Rosa"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Coronel Moldes"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "El Bordo"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "El Carril"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "El Galpón"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "El Jardín"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "El Potrero"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "El Quebrachal"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "El Tala"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Embarcación"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Gral. Ballivian"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Gral. Güemes"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Gral. Mosconi"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Gral. Pizarro"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Guachipas"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Hipólito Yrigoyen"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Iruyá"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Isla De Cañas"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "J. V. Gonzalez"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "La Caldera"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "La Candelaria"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "La Merced"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "La Poma"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "La Viña"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Las Lajitas"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Los Toldos"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Metán"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Molinos"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Nazareno"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Orán"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Payogasta"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Pichanal"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Prof. S. Mazza"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Río Piedras"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Rivadavia Banda Norte"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Rivadavia Banda Sur"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Rosario de La Frontera"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Rosario de Lerma"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Saclantás"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "18"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "San Antonio"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "San Carlos"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "San José De Metán"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "San Ramón"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Santa Victoria E."
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Santa Victoria O."
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Tartagal"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Tolar Grande"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Urundel"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Vaqueros"
+    }, 
+    {
+        "state": "Salta", 
+        "city": "Villa San Lorenzo"
+    }, 
+    {
+        "state": "San Juan", 
+        "city": "Albardón"
+    }, 
+    {
+        "state": "San Juan", 
+        "city": "Angaco"
+    }, 
+    {
+        "state": "San Juan", 
+        "city": "Calingasta"
+    }, 
+    {
+        "state": "San Juan", 
+        "city": "Capital"
+    }, 
+    {
+        "state": "San Juan", 
+        "city": "Caucete"
+    }, 
+    {
+        "state": "San Juan", 
+        "city": "Chimbas"
+    }, 
+    {
+        "state": "San Juan", 
+        "city": "Iglesia"
+    }, 
+    {
+        "state": "San Juan", 
+        "city": "Jachal"
+    }, 
+    {
+        "state": "San Juan", 
+        "city": "Nueve de Julio"
+    }, 
+    {
+        "state": "San Juan", 
+        "city": "Pocito"
+    }, 
+    {
+        "state": "San Juan", 
+        "city": "Rawson"
+    }, 
+    {
+        "state": "San Juan", 
+        "city": "Rivadavia"
+    }, 
+    {
+        "state": "San Juan", 
+        "city": "19"
+    }, 
+    {
+        "state": "San Juan", 
+        "city": "San Martín"
+    }, 
+    {
+        "state": "San Juan", 
+        "city": "Santa Lucía"
+    }, 
+    {
+        "state": "San Juan", 
+        "city": "Sarmiento"
+    }, 
+    {
+        "state": "San Juan", 
+        "city": "Ullum"
+    }, 
+    {
+        "state": "San Juan", 
+        "city": "Valle Fértil"
+    }, 
+    {
+        "state": "San Juan", 
+        "city": "Veinticinco de Mayo"
+    }, 
+    {
+        "state": "San Juan", 
+        "city": "Zonda"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Alto Pelado"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Alto Pencoso"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Anchorena"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Arizona"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Bagual"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Balde"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Batavia"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Beazley"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Buena Esperanza"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Candelaria"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Capital"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Carolina"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Carpintería"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Concarán"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Cortaderas"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "El Morro"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "El Trapiche"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "El Volcán"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Fortín El Patria"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Fortuna"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Fraga"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Juan Jorba"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Juan Llerena"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Juana Koslay"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Justo Daract"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "La Calera"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "La Florida"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "La Punilla"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "La Toma"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Lafinur"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Las Aguadas"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Las Chacras"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Las Lagunas"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Las Vertientes"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Lavaisse"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Leandro N. Alem"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Los Molles"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Luján"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Mercedes"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Merlo"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Naschel"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Navia"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Nogolí"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Nueva Galia"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Papagayos"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Paso Grande"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Potrero de Los Funes"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Quines"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Renca"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Saladillo"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "San Francisco"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "San Gerónimo"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "San Martín"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "San Pablo"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Santa Rosa de Conlara"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Talita"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Tilisarao"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Unión"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Villa de La Quebrada"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Villa de Praga"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Villa del Carmen"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Villa Gral. Roca"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Villa Larca"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Villa Mercedes"
+    }, 
+    {
+        "state": "San Luis", 
+        "city": "Zanjitas"
+    }, 
+    {
+        "state": "Santa Cruz", 
+        "city": "Calafate"
+    }, 
+    {
+        "state": "Santa Cruz", 
+        "city": "Caleta Olivia"
+    }, 
+    {
+        "state": "Santa Cruz", 
+        "city": "Cañadón Seco"
+    }, 
+    {
+        "state": "Santa Cruz", 
+        "city": "Comandante Piedrabuena"
+    }, 
+    {
+        "state": "Santa Cruz", 
+        "city": "El Calafate"
+    }, 
+    {
+        "state": "Santa Cruz", 
+        "city": "El Chaltén"
+    }, 
+    {
+        "state": "Santa Cruz", 
+        "city": "Gdor. Gregores"
+    }, 
+    {
+        "state": "Santa Cruz", 
+        "city": "Hipólito Yrigoyen"
+    }, 
+    {
+        "state": "Santa Cruz", 
+        "city": "Jaramillo"
+    }, 
+    {
+        "state": "Santa Cruz", 
+        "city": "Koluel Kaike"
+    }, 
+    {
+        "state": "Santa Cruz", 
+        "city": "Las Heras"
+    }, 
+    {
+        "state": "Santa Cruz", 
+        "city": "Los Antiguos"
+    }, 
+    {
+        "state": "Santa Cruz", 
+        "city": "Perito Moreno"
+    }, 
+    {
+        "state": "Santa Cruz", 
+        "city": "Pico Truncado"
+    }, 
+    {
+        "state": "Santa Cruz", 
+        "city": "Pto. Deseado"
+    }, 
+    {
+        "state": "Santa Cruz", 
+        "city": "Pto. San Julián"
+    }, 
+    {
+        "state": "Santa Cruz", 
+        "city": "Pto. 21"
+    }, 
+    {
+        "state": "Santa Cruz", 
+        "city": "Río Cuarto"
+    }, 
+    {
+        "state": "Santa Cruz", 
+        "city": "Río Gallegos"
+    }, 
+    {
+        "state": "Santa Cruz", 
+        "city": "Río Turbio"
+    }, 
+    {
+        "state": "Santa Cruz", 
+        "city": "Tres Lagos"
+    }, 
+    {
+        "state": "Santa Cruz", 
+        "city": "Veintiocho De Noviembre"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Aarón Castellanos"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Acebal"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Aguará Grande"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Albarellos"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Alcorta"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Aldao"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Alejandra"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Álvarez"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Ambrosetti"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Amenábar"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Angélica"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Angeloni"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Arequito"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Arminda"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Armstrong"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Arocena"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Arroyo Aguiar"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Arroyo Ceibal"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Arroyo Leyes"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Arroyo Seco"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Arrufó"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Arteaga"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Ataliva"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Aurelia"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Avellaneda"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Barrancas"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Bauer Y Sigel"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Bella Italia"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Berabevú"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Berna"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Bernardo de Irigoyen"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Bigand"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Bombal"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Bouquet"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Bustinza"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Cabal"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Cacique Ariacaiquin"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Cafferata"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Calchaquí"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Campo Andino"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Campo Piaggio"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Cañada de Gómez"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Cañada del Ucle"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Cañada Rica"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Cañada Rosquín"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Candioti"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Capital"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Capitán Bermúdez"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Capivara"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Carcarañá"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Carlos Pellegrini"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Carmen"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Carmen Del Sauce"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Carreras"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Carrizales"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Casalegno"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Casas"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Casilda"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Castelar"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Castellanos"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Cayastá"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Cayastacito"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Centeno"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Cepeda"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Ceres"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Chabás"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Chañar Ladeado"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Chapuy"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Chovet"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Christophersen"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Classon"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Cnel. Arnold"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Cnel. Bogado"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Cnel. Dominguez"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Cnel. Fraga"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Col. Aldao"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Col. Ana"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Col. Belgrano"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Col. Bicha"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Col. Bigand"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Col. Bossi"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Col. Cavour"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Col. Cello"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Col. Dolores"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Col. Dos Rosas"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Col. Durán"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Col. Iturraspe"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Col. Margarita"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Col. Mascias"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Col. Raquel"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Col. Rosa"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Col. San José"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Constanza"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Coronda"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Correa"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Crispi"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Cululú"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Curupayti"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Desvio Arijón"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Diaz"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Diego de Alvear"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Egusquiza"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "El Arazá"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "El Rabón"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "El Sombrerito"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "El Trébol"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Elisa"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Elortondo"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Emilia"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Empalme San Carlos"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Empalme Villa Constitucion"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Esmeralda"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Esperanza"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Estación Alvear"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Estacion Clucellas"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Esteban Rams"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Esther"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Esustolia"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Eusebia"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Felicia"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Fidela"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Fighiera"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Firmat"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Florencia"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Fortín Olmos"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Franck"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Fray Luis Beltrán"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Frontera"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Fuentes"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Funes"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Gaboto"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Galisteo"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Gálvez"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Garabalto"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Garibaldi"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Gato Colorado"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Gdor. Crespo"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Gessler"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Godoy"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Golondrina"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Gral. Gelly"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Gral. Lagos"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Granadero Baigorria"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Gregoria Perez De Denis"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Grutly"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Guadalupe N."
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Gödeken"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Helvecia"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Hersilia"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Hipatía"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Huanqueros"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Hugentobler"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Hughes"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Humberto 1º"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Humboldt"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Ibarlucea"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Ing. Chanourdie"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Intiyaco"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Ituzaingó"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Jacinto L. Aráuz"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Josefina"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Juan B. Molina"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Juan de Garay"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Juncal"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "La Brava"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "La Cabral"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "La Camila"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "La Chispa"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "La Clara"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "La Criolla"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "La Gallareta"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "La Lucila"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "La Pelada"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "La Penca"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "La Rubia"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "La Sarita"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "La Vanguardia"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Labordeboy"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Laguna Paiva"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Landeta"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Lanteri"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Larrechea"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Las Avispas"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Las Bandurrias"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Las Garzas"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Las Palmeras"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Las Parejas"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Las Petacas"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Las Rosas"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Las Toscas"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Las Tunas"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Lazzarino"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Lehmann"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Llambi Campbell"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Logroño"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Loma Alta"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "López"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Los Amores"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Los Cardos"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Los Laureles"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Los Molinos"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Los Quirquinchos"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Lucio V. Lopez"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Luis Palacios"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Ma. Juana"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Ma. Luisa"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Ma. Susana"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Ma. Teresa"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Maciel"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Maggiolo"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Malabrigo"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Marcelino Escalada"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Margarita"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Matilde"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Mauá"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Máximo Paz"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Melincué"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Miguel Torres"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Moisés Ville"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Monigotes"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Monje"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Monte Obscuridad"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Monte Vera"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Montefiore"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Montes de Oca"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Murphy"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Ñanducita"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Naré"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Nelson"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Nicanor E. Molinas"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Nuevo Torino"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Oliveros"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Palacios"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Pavón"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Pavón Arriba"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Pedro Gómez Cello"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Pérez"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Peyrano"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Piamonte"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Pilar"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Piñero"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Plaza Clucellas"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Portugalete"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Pozo Borrado"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Progreso"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Providencia"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Pte. Roca"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Pueblo Andino"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Pueblo Esther"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Pueblo Gral. San Martín"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Pueblo Irigoyen"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Pueblo Marini"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Pueblo Muñoz"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Pueblo Uranga"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Pujato"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Pujato N."
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Rafaela"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Ramayón"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Ramona"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Reconquista"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Recreo"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Ricardone"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Rivadavia"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Roldán"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Romang"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Rosario"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Rueda"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Rufino"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Sa Pereira"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Saguier"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Saladero M. Cabal"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Salto Grande"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San Agustín"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San Antonio de Obligado"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San Bernardo (N.J.)"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San Bernardo (S.J.)"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San Carlos Centro"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San Carlos N."
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San Carlos S."
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San Cristóbal"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San Eduardo"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San Eugenio"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San Fabián"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San Fco. de Santa Fé"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San Genaro"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San Genaro N."
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San Gregorio"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San Guillermo"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San Javier"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San Jerónimo del Sauce"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San Jerónimo N."
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San Jerónimo S."
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San Jorge"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San José de La Esquina"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San José del Rincón"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San Justo"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San Lorenzo"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San Mariano"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San Martín de Las Escobas"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San Martín N."
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "San Vicente"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Sancti Spititu"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Sanford"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Santo Domingo"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Santo Tomé"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Santurce"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Sargento Cabral"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Sarmiento"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Sastre"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Sauce Viejo"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Serodino"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Silva"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Soldini"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Soledad"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Soutomayor"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Sta. Clara de Buena Vista"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Sta. Clara de Saguier"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Sta. Isabel"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Sta. Margarita"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Sta. Maria Centro"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Sta. María N."
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Sta. Rosa"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Sta. Teresa"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Suardi"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Sunchales"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Susana"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Tacuarendí"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Tacural"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Tartagal"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Teodelina"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Theobald"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Timbúes"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Toba"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Tortugas"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Tostado"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Totoras"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Traill"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Venado Tuerto"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Vera"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Vera y Pintado"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Videla"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Vila"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Villa Amelia"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Villa Ana"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Villa Cañas"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Villa Constitución"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Villa Eloísa"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Villa Gdor. Gálvez"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Villa Guillermina"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Villa Minetti"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Villa Mugueta"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Villa Ocampo"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Villa San José"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Villa Saralegui"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Villa Trinidad"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Villada"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Virginia"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Wheelwright"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Zavalla"
+    }, 
+    {
+        "state": "Santa Fe", 
+        "city": "Zenón Pereira"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Añatuya"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Árraga"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Bandera"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Bandera Bajada"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Beltrán"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Brea Pozo"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Campo Gallo"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Capital"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Chilca Juliana"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Choya"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Clodomira"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Col. Alpina"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Col. Dora"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Col. El Simbolar Robles"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "El Bobadal"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "El Charco"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "El Mojón"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Estación Atamisqui"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Estación Simbolar"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Fernández"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Fortín Inca"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Frías"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Garza"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Gramilla"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Guardia Escolta"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Herrera"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Icaño"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Ing. Forres"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "La Banda"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "La Cañada"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Laprida"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Lavalle"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Loreto"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Los Juríes"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Los Núñez"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Los Pirpintos"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Los Quiroga"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Los Telares"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Lugones"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Malbrán"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Matara"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Medellín"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Monte Quemado"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Nueva Esperanza"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Nueva Francia"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Palo Negro"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Pampa de Los Guanacos"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Pinto"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Pozo Hondo"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Quimilí"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Real Sayana"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Sachayoj"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "San Pedro de Guasayán"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Selva"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Sol de Julio"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Sumampa"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Suncho Corral"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Taboada"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Tapso"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Termas de Rio Hondo"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Tintina"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Tomas Young"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Vilelas"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Villa Atamisqui"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Villa La Punta"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Villa Ojo de Agua"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Villa Río Hondo"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Villa Salavina"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Villa Unión"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Vilmer"
+    }, 
+    {
+        "state": "Santiago del Estero", 
+        "city": "Weisburd"
+    }, 
+    {
+        "state": "Tierra del Fuego, Antártida e Islas del Atlántico Sur", 
+        "city": "Río Grande"
+    }, 
+    {
+        "state": "Tierra del Fuego, Antártida e Islas del Atlántico Sur", 
+        "city": "Tolhuin"
+    }, 
+    {
+        "state": "Tierra del Fuego, Antártida e Islas del Atlántico Sur", 
+        "city": "Ushuaia"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Acheral"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Agua Dulce"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Aguilares"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Alderetes"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Alpachiri"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Alto Verde"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Amaicha del Valle"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Amberes"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Ancajuli"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Arcadia"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Atahona"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Banda del Río Sali"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Bella Vista"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Buena Vista"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Burruyacú"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Capitán Cáceres"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Cevil Redondo"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Choromoro"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Ciudacita"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Colalao del Valle"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Colombres"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Concepción"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Delfín Gallo"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "El Bracho"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "El Cadillal"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "El Cercado"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "El Chañar"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "El Manantial"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "El Mojón"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "El Mollar"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "El Naranjito"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "El Naranjo"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "El Polear"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "El Puestito"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "El Sacrificio"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "El Timbó"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Escaba"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Esquina"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Estación Aráoz"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Famaillá"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Gastone"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Gdor. Garmendia"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Gdor. Piedrabuena"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Graneros"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Huasa Pampa"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "J. B. Alberdi"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "La Cocha"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "La Esperanza"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "La Florida"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "La Ramada"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "La Trinidad"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Lamadrid"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Las Cejas"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Las Talas"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Las Talitas"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Los Bulacio"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Los Gómez"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Los Nogales"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Los Pereyra"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Los Pérez"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Los Puestos"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Los Ralos"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Los Sarmientos"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Los Sosa"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Lules"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "M. García Fernández"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Manuela Pedraza"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Medinas"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Monte Bello"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Monteagudo"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Monteros"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Padre Monti"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Pampa Mayo"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Quilmes"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Raco"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Ranchillos"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Río Chico"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Río Colorado"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Río Seco"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Rumi Punco"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "San Andrés"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "San Felipe"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "San Ignacio"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "San Javier"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "San José"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "San Miguel de 25"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "San Pedro"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "San Pedro de Colalao"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Santa Rosa de Leales"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Sgto. Moya"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Siete de Abril"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Simoca"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Soldado Maldonado"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Sta. Ana"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Sta. Cruz"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Sta. Lucía"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Taco Ralo"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Tafí del Valle"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Tafí Viejo"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Tapia"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Teniente Berdina"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Trancas"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Villa Belgrano"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Villa Benjamín Araoz"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Villa Chiligasta"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Villa de Leales"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Villa Quinteros"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Yánima"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Yerba Buena"
+    }, 
+    {
+        "state": "Tucumán", 
+        "city": "Yerba Buena (S)"
+    }
+]

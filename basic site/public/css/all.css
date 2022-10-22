@@ -6358,7 +6358,7 @@ readers do not read off random characters that represent icons */
   --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands"; }
 
 @font-face {
-  font-family: 'Font Awesome 6 Brands';
+  font-family: "Font Awesome 6 Brands";
   font-style: normal;
   font-weight: 400;
   font-display: block;
@@ -6366,7 +6366,7 @@ readers do not read off random characters that represent icons */
 
 .fab,
 .fa-brands {
-  font-family: 'Font Awesome 6 Brands';
+  font-family: "Font Awesome 6 Brands";
   font-weight: 400; }
 
 .fa-42-group:before {
@@ -7869,7 +7869,7 @@ readers do not read off random characters that represent icons */
   --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Free"; }
 
 @font-face {
-  font-family: 'Font Awesome 6 Free';
+  font-family: "Font Awesome 6 Free";
   font-style: normal;
   font-weight: 400;
   font-display: block;
@@ -7877,13 +7877,13 @@ readers do not read off random characters that represent icons */
 
 .far,
 .fa-regular {
-  font-family: 'Font Awesome 6 Free';
+  font-family: "Font Awesome 6 Free";
   font-weight: 400; }
 :root, :host {
   --fa-font-solid: normal 900 1em/1 "Font Awesome 6 Free"; }
 
 @font-face {
-  font-family: 'Font Awesome 6 Free';
+  font-family: "Font Awesome 6 Free";
   font-style: normal;
   font-weight: 900;
   font-display: block;
@@ -7891,7 +7891,7 @@ readers do not read off random characters that represent icons */
 
 .fas,
 .fa-solid {
-  font-family: 'Font Awesome 6 Free';
+  font-family: "Font Awesome 6 Free";
   font-weight: 900; }
 @font-face {
   font-family: "Font Awesome 5 Brands";

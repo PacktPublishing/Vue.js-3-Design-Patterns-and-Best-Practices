@@ -52,7 +52,7 @@ const service = {
         // Check if the master project list exists in localStorage
         let projects=localStorage.getItem("projects");
 
-        // If it doesn't exist, we create a default.otherwise, parse the string
+        // If it doesn"t exist, we create a default.otherwise, parse the string
         if(!projects){
             projects={next_id:0, list:[]}
         }else{

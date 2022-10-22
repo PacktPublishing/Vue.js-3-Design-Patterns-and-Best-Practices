@@ -1,5 +1,5 @@
 <script setup>
-    const $props=defineProps(['label'])
+    const $props=defineProps(["label"])
 </script>
 
 <template>

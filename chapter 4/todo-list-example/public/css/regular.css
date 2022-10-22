@@ -7,7 +7,7 @@
   --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Free"; }
 
 @font-face {
-  font-family: 'Font Awesome 6 Free';
+  font-family: "Font Awesome 6 Free";
   font-style: normal;
   font-weight: 400;
   font-display: block;
@@ -15,5 +15,5 @@
 
 .far,
 .fa-regular {
-  font-family: 'Font Awesome 6 Free';
+  font-family: "Font Awesome 6 Free";
   font-weight: 400; }
