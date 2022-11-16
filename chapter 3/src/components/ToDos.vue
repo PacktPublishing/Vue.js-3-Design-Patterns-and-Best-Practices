@@ -2,7 +2,7 @@
 import { ref, computed } from "vue"
 
 const
-    _todo_item = ref(""),
+    _todo_text = ref(""),
     _todo_list = ref([]),
     _pending = computed(() => {
         return _todo_list.value.filter(item => !item.checked)
@@ -12,12 +12,12 @@ const
     })
 
 function clearToDo() {
-    _todo_item.value = ""
+    _todo_text.value = ""
 }
 
 function addToDo() {
-    if (_todo_item.value != "") {
-        _todo_list.value.push({ id: _todo_list.value.length + 1, text: _todo_item.value, checked: false })
+    if (_todo_text.value != "") {
+        _todo_list.value.push({ id: _todo_list.value.length + 1, text: _todo_text.value, checked: false })
         clearToDo()
     }
 }
