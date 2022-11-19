@@ -1,7 +1,25 @@
-# Vue 3 + Vite
+# Chapter 6
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This example code provides the bare minimum code and configuration to create a working Progressive Web Application. Use this code as companion for Chapter 6.
+
+## Installation
+
+Download the code, and install dependencies from the terminal in the root directory with the command:
+
+`npm install`
+
+Run the application with:
+
+`npm run dev`
+
+The application can be built for production with the following command:
+
+`npm run build`
 
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+
+***
+
+By **Pablo David Garaguso**
