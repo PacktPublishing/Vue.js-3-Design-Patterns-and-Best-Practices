@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "mitt": "^3.0.0",
     "pinia": "^2.0.26",
     "vue": "^3.2.45"
   },

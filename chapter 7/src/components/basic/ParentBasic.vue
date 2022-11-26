@@ -11,7 +11,7 @@ function incrementCounter() {
 </script>
 
 <template>
-    <div class="padding">
+    <div>
         <p>
             In this example, the parent and the children share a state using <strong>$props</strong> and
             <strong>$emits</strong>

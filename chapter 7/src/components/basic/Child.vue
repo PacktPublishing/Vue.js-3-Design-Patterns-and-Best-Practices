@@ -23,7 +23,7 @@ function incrementCounter(){
 
 <style scoped>
 .child-component{
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: var(--shadow);
     display: flex;
     gap: var(--padding);
     align-items: center;

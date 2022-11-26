@@ -4,7 +4,7 @@
 
 :root{
     --padding: 1rem;
-    --shadow: rgba(0,0,0,0.25);
+    --shadow: rgba(0,0,30,0.1);
 }
 
 html, body{
@@ -34,6 +34,10 @@ body{
     padding-right: var(--padding);
 }
 
+.with-background{
+    background-color: var(--shadow);
+}
+
 .badge{
     display: inline-block;
     text-align: center;
@@ -44,6 +48,15 @@ body{
     border-radius: 1rem;
     min-width: 3rem;
     border: 1px solid var(--shadow);
+}
+
+.flex-container{
+    display: flex;
+    gap: var(--padding);
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
 }
 
 button{
