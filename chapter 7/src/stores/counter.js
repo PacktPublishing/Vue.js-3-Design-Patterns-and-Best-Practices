@@ -1,3 +1,5 @@
+// Using composition API
+
 import { ref, computed } from 'vue'
 import { defineStore } from 'pinia'
 

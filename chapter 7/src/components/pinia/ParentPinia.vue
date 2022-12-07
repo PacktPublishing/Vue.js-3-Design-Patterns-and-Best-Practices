@@ -10,7 +10,7 @@ const
 <div>
     <p>The central store provides more than just reactive state... also encapsulates logic.</p>
     <div class="padding with-background">
-    <h4>Parent Pinia</h4>
+    <h4>Parent Pinia Example</h4>
     <code>
     {{$store}}
     </code>

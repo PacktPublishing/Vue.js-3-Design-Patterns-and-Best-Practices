@@ -5,10 +5,10 @@
 import { reactive } from "vue"
 
 const
-    state=reactive({ counter: 0 })
+    _state=reactive({ counter: 0 })
 
 function useState(){
-    return state;
+    return _state;
 }
 
 export default useState;

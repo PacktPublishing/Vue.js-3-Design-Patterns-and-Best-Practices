@@ -20,7 +20,7 @@ try {
         <p>This composable keeps the <strong>sessionStorage</strong> in sync with a reactive variable</p>
         <div class="with-background padding flex-container">
             <div>
-                <h4>Value saved in sessionStorage</h4>
+                <h4>Value in sessionStorage</h4>
                 <input type="number" v-model="state.counter">
             </div>
             <div class="side-padding">
