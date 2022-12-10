@@ -9,8 +9,8 @@ const
     <h4>Child component</h4>
     <code :class="{'red': !$store.in_range}">{{$store}}</code>
     <hr>
-    <button @click="$store.increment">Increment</button>
-    <button @click="$store.decrement" :disabled="!$store.in_range">Decrement</button>
+    <button @click="$store.increment()">Increment</button>
+    <button @click="$store.decrement()" :disabled="!$store.in_range">Decrement</button>
 </div>
 </template>
 

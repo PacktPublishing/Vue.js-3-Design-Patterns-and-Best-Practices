@@ -1,13 +1,13 @@
 <script setup>
 import { useSessionStorage } from "../../services/SessionStorage"
 
-const state = useSessionStorage()
+const $sessionStorage = useSessionStorage()
 </script>
 
 <template>
     <div class="padding with-background">
         <strong>Child Component</strong>
-        <div>Counter: {{ state.counter }}</div>
+        <div>Counter: {{ $sessionStorage.counter }}</div>
     </div>
 
 </template>

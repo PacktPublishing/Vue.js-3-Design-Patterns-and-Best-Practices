@@ -2,12 +2,12 @@
 import ChildSessionVue from "./ChildSession.vue";
 import { useSessionStorage } from "../../services/SessionStorage"
 
-const state = useSessionStorage()
+const $sessionStorage = useSessionStorage()
 
 try {
     // Initialize if not found
-    if(!state.counter){
-        state.counter = 1
+    if(!$sessionStorage.counter){
+        $sessionStorage.counter = 1
     }
 } catch (err) {
     console.log(err)
@@ -21,11 +21,11 @@ try {
         <div class="with-background padding flex-container">
             <div>
                 <h4>Value in sessionStorage</h4>
-                <input type="number" v-model="state.counter">
+                <input type="number" v-model="$sessionStorage.counter">
             </div>
             <div class="side-padding">
                 <h4>Reactive value, in sync with session storage</h4>
-                <h1>Counter: {{ state.counter }} </h1>
+                <h1>Counter: {{ $sessionStorage.counter }} </h1>
             </div>
             <div class="padding">
                 <ChildSessionVue></ChildSessionVue>

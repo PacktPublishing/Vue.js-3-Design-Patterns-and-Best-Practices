@@ -45,8 +45,10 @@ let handler = {
     }
 }
 
+const Decorator= new Proxy(window.sessionStorage, handler);
+
 function useSessionStorage(){
-    return new Proxy(window.sessionStorage, handler);
+    return Decorator;
 }
 
 // We capture both types of imports
