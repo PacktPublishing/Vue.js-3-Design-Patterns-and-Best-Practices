@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+
+:root{
+    --padding: 1rem;
+    --gray: #ccc;
+}
+
+html, body{
+    padding:0;
+    margin:0;
+    width: 100%;
+    height: 100%;
+    font-family: sans-serif;
+}
+
+.padded{
+    padding: var(--padding);
+}
+
+.flex-container{
+    display: flex;
+}
+
+button{
+    padding: 0.6rem 1rem;
+    background-color: var(--gray);
+    border: 2px solid;
+    cursor: pointer;
+}
+
+button:hover{
+    filter: brightness(1.1);
+}
