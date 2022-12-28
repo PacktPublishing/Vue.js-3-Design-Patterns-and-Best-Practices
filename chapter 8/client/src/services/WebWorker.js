@@ -4,15 +4,6 @@ const _worker = new WebWorker()
 
 const service = {
     queue:{},
-    processMessage(data) {
-        let id=data.id
-        if(data.success){
-            service.queue[id].resolve(data.payload)
-        }else{
-            service.queue[id].reject(data.payload)
-        }
-        delete service.queue[id];
-    },
     request(command, payload = {}) {
         return new Promise((resolve, reject) => {
 
@@ -20,7 +11,7 @@ const service = {
             let message = {
                     id: crypto.randomUUID(),
                     command,
-                    payload
+                    payload//: JSON.stringify(payload)
                 }
 
             // Save reference
@@ -30,6 +21,15 @@ const service = {
             _worker.postMessage(message);
 
         })
+    },
+    processMessage(data) {
+        let id=data.id
+        if(data.success){
+            service.queue[id].resolve(data.payload)
+        }else{
+            service.queue[id].reject(data.payload)
+        }
+        delete service.queue[id];
     }
 }
 

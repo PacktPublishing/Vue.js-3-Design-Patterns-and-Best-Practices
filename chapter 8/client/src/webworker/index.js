@@ -13,11 +13,12 @@ function sendRequest(id, success=false,  payload={}){
 }
 
 self.onmessage=(event)=>{
-    let data=event.data;
-
+    let data=event.data,
+        payload=data.payload
+     ;
     services.forEach(service=>{
         if(service[data.command]){
-            service[data.command](data.payload).then(result=>{
+            service[data.command](payload).then(result=>{
                 sendRequest(data.id, true, result)
             }, err=>{
                 sendRequest(data.id, false, err)

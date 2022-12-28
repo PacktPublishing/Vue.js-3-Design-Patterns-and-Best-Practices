@@ -34,11 +34,12 @@ function testWebWorker(){
         </div>
     </div>
 
+    <h2>IndexedDB access through the worker</h2>
+    <DBtestVue></DBtestVue>
+    
     <h2>Network connections through the worker</h2>
     <NetworkCommunicationVue></NetworkCommunicationVue>
 
-    <h2>IndexedDB access through the worker</h2>
-    <DBtestVue></DBtestVue>
 </div>
 
 </template>

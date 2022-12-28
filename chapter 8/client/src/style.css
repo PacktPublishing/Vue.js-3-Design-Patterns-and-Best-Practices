@@ -23,6 +23,18 @@ html, body{
     display: flex;
 }
 
+.flex-justify{
+    justify-content: space-between;
+}
+
+.flex-grow{
+    flex-grow: 1;
+}
+
+.gap{
+    gap: 2rem;
+}
+
 button{
     padding: 0.6rem 1rem;
     background-color: var(--gray);
@@ -32,4 +44,25 @@ button{
 
 button:hover{
     filter: brightness(1.1);
+}
+
+input, textarea{
+    padding: 4px;
+    width: 100%;
+    border: 1px solid var(--gray);
+}
+
+textarea{
+    min-height: 4rem;
+    resize: none;
+}
+
+label{
+    display: flex;
+    align-content: center;
+}
+
+label > input{
+    width: auto;
+    margin: 0 8px;
 }
