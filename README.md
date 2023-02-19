@@ -12,6 +12,10 @@ Within the project folder, install the dependencies with:
 
 `npm install`
 
+Run the example application with:
+
+`npm run dev` or `npm run start`
+
 Run a development server with:
 
 `npm run serve`

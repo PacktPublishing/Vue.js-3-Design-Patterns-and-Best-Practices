@@ -7,8 +7,8 @@ function FibonacciSync(n, callback) {
     if (n < 2) {
         callback(n)
     } else {
-        let pre_1 = 1, pre_2 = 1, value;
-        for (let i = 2; i < n; i++) {
+        let pre_1 = 0, pre_2 = 1, value;
+        for (let i = 1; i < n; i++) {
             value = pre_1 + pre_2;
             pre_1 = pre_2;
             pre_2 = value;
@@ -22,8 +22,8 @@ function FibonacciAsync(n, callback) {
         if (n < 2) {
             callback(n)
         } else {
-            let pre_1 = 1, pre_2 = 1, value;
-            for (let i = 2; i < n; i++) {
+            let pre_1 = 0, pre_2 = 1, value;
+            for (let i = 1; i < n; i++) {
                 value = pre_1 + pre_2;
                 pre_1 = pre_2;
                 pre_2 = value;
@@ -38,16 +38,20 @@ function FibonacciPromise(n) {
         if (n < 0) {
             reject()
         } else {
-            if (n < 2) {
-                resolve(n)
-            } else {
-                let pre_1 = 1, pre_2 = 1, value;
-                for (let i = 2; i < n; i++) {
-                    value = pre_1 + pre_2;
-                    pre_1 = pre_2;
-                    pre_2 = value;
-                }
-                resolve(value);
+            switch (n) {
+                case 0:
+                case 1:
+                    resolve(n);
+                case 2:
+                    resolve(1);
+                default:
+                    let pre_1 = 1, pre_2 = 1, value;
+                    for (let i = 2; i < n; i++) {
+                        value = pre_1 + pre_2;
+                        pre_1 = pre_2;
+                        pre_2 = value;
+                    }
+                    resolve(value);
             }
         }
     })
