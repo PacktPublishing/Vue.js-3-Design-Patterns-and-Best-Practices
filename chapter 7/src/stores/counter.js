@@ -6,15 +6,18 @@ import { defineStore } from 'pinia'
 const useCounterStore = defineStore('counter', () => {
     const
         count = ref(0),
-        in_range=ref(true),
+        in_range=ref(true)
+
+    const
         doubleCount = computed(() => {
             if(count.value>=0){
-                in_range.value=true;
                 return count.value *2;
             }else{
-                in_range.value=false;
                 return 0
             }
+        }),
+        inRange = computed(()=>{
+            return count.value>=0;
         })
 
 
@@ -26,7 +29,7 @@ const useCounterStore = defineStore('counter', () => {
         count.value--;
     }
 
-    return { count, doubleCount, in_range, increment, decrement }
+    return { count, doubleCount, inRange, increment, decrement }
 });
 
 export {useCounterStore };

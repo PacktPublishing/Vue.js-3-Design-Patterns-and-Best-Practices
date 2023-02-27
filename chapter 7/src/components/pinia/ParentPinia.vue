@@ -16,8 +16,8 @@ const
     </code>
     <div class="semi-padding">
     <button @click="$store.increment">Increment</button>
-    <button @click="$store.decrement" :disabled="!$store.in_range">Decrement</button>
-    <span v-show="!$store.in_range">Allowed range are natural numbers including zero</span>
+    <button @click="$store.decrement" :disabled="!$store.inRange">Decrement</button>
+    <span v-show="!$store.inRange">Allowed range are natural numbers including zero</span>
     </div>
 
     <div class="padding flex-container flex-wrap">
