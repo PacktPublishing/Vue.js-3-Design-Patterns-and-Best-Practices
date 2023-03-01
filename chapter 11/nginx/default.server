@@ -1,0 +1,20 @@
+server { 
+
+    // Server listening port
+    listen 80; 
+
+    // index file, default
+    index index.html;  
+
+    // Absolute path to our application folder's
+    root /home/user/www;
+
+    // Associated domains and subdomains with this server entry
+    server_name www.mydomain.com mydomain.com;	
+
+    // Domain path to listen, here is root.
+    location / {								 
+        try_files $uri $uri/ /index.html;
+    } 
+
+} 

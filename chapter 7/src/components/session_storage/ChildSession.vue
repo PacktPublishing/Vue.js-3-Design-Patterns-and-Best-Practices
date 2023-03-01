@@ -1,5 +1,5 @@
 <script setup>
-import { useSessionStorage } from "../../services/SessionStorage"
+import { useSessionStorage } from "../../services/sessionStorage"
 
 const $sessionStorage = useSessionStorage()
 </script>
