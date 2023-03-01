@@ -1,6 +1,6 @@
 <script setup>
 import ChildSessionVue from "./ChildSession.vue";
-import { useSessionStorage } from "../../services/SessionStorage"
+import { useSessionStorage } from "../../services/sessionStorage"
 
 const $sessionStorage = useSessionStorage()
 
