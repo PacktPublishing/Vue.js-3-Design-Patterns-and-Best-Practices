@@ -5,7 +5,7 @@
 
 <template>
     <div style="color: purple;">
-        <HeaderH1 :title="$props.label+"!!!""></HeaderH1>
+        <HeaderH1 :title="$props.label+'!!!'"></HeaderH1>
     </div>    
 </template>
 
