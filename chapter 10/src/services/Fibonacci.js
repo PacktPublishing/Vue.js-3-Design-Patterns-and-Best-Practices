@@ -2,7 +2,7 @@
     A simple implementation of the Fibonacci calculator
  */
 
-function Fibonacci(n) {
+function fibonacci(n) {
     if (n < 0) {
         throw "Undefined for negative numbers"
     } else {
@@ -22,7 +22,7 @@ function Fibonacci(n) {
     }
 }
 
-function FibonacciPromise(n) {
+function fibonacciPromise(n) {
     return new Promise((resolve, reject) => {
         if (n < 0) {
             reject()
@@ -45,5 +45,5 @@ function FibonacciPromise(n) {
     })
 }
 
-export default { Fibonacci, FibonacciPromise }
-export { Fibonacci, FibonacciPromise }
+export default { Fibonacci: fibonacci, FibonacciPromise: fibonacciPromise }
+export { fibonacci as Fibonacci, fibonacciPromise as FibonacciPromise }
