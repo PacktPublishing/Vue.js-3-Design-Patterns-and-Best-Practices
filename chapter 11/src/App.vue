@@ -11,7 +11,7 @@ const
 
 <template>
 <div>
-    <h1>Chapter 9 - UI and UX patterns</h1>
+    <h1>Chapter 11 - UI and UX patterns</h1>
     <h2>Examples</h2>
     <section>
         <h3>Toggle switch</h3>
