@@ -40,7 +40,7 @@ function addToDo() {
             <input  class="w3-input w3-border-0" 
                     type="text" 
                     autofocus
-                    v-model="_todo_item" 
+                    v-model="_todo_text" 
                     @keyup.enter="addToDo()"
                     placeholder="Type here your to-do item...">
             <button class="w3-button w3-gray" @click="clearToDo()">
