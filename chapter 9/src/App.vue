@@ -1,44 +1,35 @@
 <script setup>
-import Toggle from "./components/Toggle.vue"
-import Spinner from "./components/Spinner.vue"
-import InfiniteScroller from "./components/InfiniteScroller.vue";
-import {ref} from "vue"
+import FibonacciInput from './components/FibonacciInput.vue';
+import FibonacciOutput from './components/FibonacciOutput.vue';
+
+import { ref } from "vue"
 
 const
-    _feature_enabled=ref(true)
+    _value=ref(0)
 
+
+function setValue(number){
+    _value.value=number;
+}
 </script>
 
 <template>
-<div>
-    <h1>Chapter 9 - UI and UX patterns</h1>
-    <h2>Examples</h2>
-    <section>
-        <h3>Toggle switch</h3>
-        <Toggle v-model="_feature_enabled"></Toggle>
-        <span> Value read: {{ _feature_enabled }}</span>
-    </section>
+<div class="app-wrapper">
+    <h1>Fibonacci calculator</h1>
 
-    <section>
-        <h3>A spinner with text</h3>
-        <Spinner caption="System working..."></Spinner>
-    </section>
+    <div>
+        <FibonacciInput @input="setValue"></FibonacciInput>
+    </div>
 
-    <section>
-        <h3>An infinite scroller</h3>
-        <div class="limit-viewport">
-            <InfiniteScroller></InfiniteScroller>
-        </div>
-    </section>
-    
+    <div>
+        <FibonacciOutput :number="_value"></FibonacciOutput>
+    </div>
 </div>
 </template>
 
 <style scoped>
-.limit-viewport{
+.app-wrapper{
     padding: 1rem;
-    overflow: hidden auto;
-    max-height: 5rem;
-    border: 1px solid #ccc;
+    margin: 0 auto;
 }
 </style>

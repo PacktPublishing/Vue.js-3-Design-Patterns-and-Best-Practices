@@ -1,18 +1,28 @@
 {
-  "name": "chapter-9",
+  "name": "chapter10",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "start": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "test": "vitest",
+    "test:once": "vitest run",
+    "test:coverage": "vitest run --coverage",
+    "test:ui":"vitest --ui"
   },
   "dependencies": {
     "vue": "^3.2.45"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0",
-    "vite": "^4.0.0"
+    "@vitest/coverage-c8": "^0.28.5",
+    "@vitest/ui": "^0.28.5",
+    "@vue/test-utils": "^2.3.0",
+    "jsdom": "^21.1.0",
+    "vite": "^4.1.0",
+    "vitest": "^0.28.5"
   }
 }
