@@ -1,7 +1,8 @@
 <script setup>
 /**
     A basic example of the front end needed to implement an email OTP
-    workflow
+    workflow.
+    This template needs a backend server and additional validation code to work when implemented.
  */
 import axios from "axios"
 import { ref } from "vue"
