@@ -12,8 +12,10 @@ Within the project folder, install the dependencies with:
 
 `npm install`
 
-Run the example application with:
+Run the example web application with:
 
 `npm run dev`
 
+### Notes
 
+Chapters 2 and 10 have code fragments as referenced in the book. 
