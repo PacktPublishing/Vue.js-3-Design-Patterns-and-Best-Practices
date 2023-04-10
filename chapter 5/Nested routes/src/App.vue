@@ -1,6 +1,5 @@
 <script setup>
 import { RouterLink, RouterView } from "vue-router"
-import HelloWorld from "./components/HelloWorld.vue"
 </script>
 
 <template>
@@ -12,5 +11,7 @@ import HelloWorld from "./components/HelloWorld.vue"
 <style scoped>
 div{
     height: 100vh;
+    font-family: sans-serif;
 }
+
 </style>
