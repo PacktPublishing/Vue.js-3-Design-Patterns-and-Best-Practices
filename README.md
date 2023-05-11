@@ -41,7 +41,7 @@ The code will look like the following:
 **Following is what you need for this book:**
 This book is for Vue.js developers who are passionate about framework design principles and seek to apply commonly found design patterns to their web development projects. This book assumes prior knowledge of JavaScript and a basic understanding of Vue.js, making it an ideal resource for developers looking to expand their existing skillset.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-12).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-11).
 
 ### Software and Hardware List
 
